@@ -9,6 +9,6 @@ public interface ErrorCodeImpl {
 
     Integer getErrorCode();
 
-    String getErrorDescription();
+    String getDescription();
 
 }

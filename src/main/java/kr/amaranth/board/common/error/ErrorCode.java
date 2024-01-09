@@ -20,6 +20,6 @@ public enum ErrorCode implements ErrorCodeImpl {
 
     private final Integer httpStatusCode;
     private final Integer errorCode;
-    private final String errorDescription;
+    private final String description;
 
 }
